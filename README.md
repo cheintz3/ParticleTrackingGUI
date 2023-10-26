@@ -8,3 +8,16 @@ Python GUI for tracking particle trajectories from images and calculate statisti
 - Mohan Kukreja
 - Terry Yan
 
+<<<<<<< HEAD
+=======
+Python GUI for tracking particle trajectories from images and calculate statistics
+ 
+
+ #test
+ - chandler 
+
+
+
+ another test
+
+>>>>>>> 81035774774baac84a708dfa29457e8e20f011c6
