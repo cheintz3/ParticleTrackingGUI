@@ -1,7 +1,7 @@
 # ParticleTrackingGUI
 # Members
 
-- Julio Chavez is the leader
+- Julio Chavez is the admin
 - Carlos Abarca
 - Chandler Heintz
 - Mohan Kukreja
